@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - Ground
+  - Enemy
+  - Platform
+  - Shield
+  - Robot Wall
+  - Bullet
+  - Doorway
+  - Enemy Objects
+  - Life
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 324350977
+    locked: 0
+  - name: Pickups
+    uniqueID: 1592314907
+    locked: 0
+  - name: Player
+    uniqueID: 2113909659
+    locked: 1
+  - name: Shield
+    uniqueID: 1026945457
+    locked: 0
+  - name: Spikes
+    uniqueID: 2078614501
+    locked: 0
+  - name: Platform
+    uniqueID: 2502031193
+    locked: 0
+  - name: Bullet
+    uniqueID: 2672902393
+    locked: 0
